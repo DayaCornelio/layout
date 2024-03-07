@@ -85,8 +85,7 @@ class TitleSection extends StatelessWidget {
               ],
             ),
           ),
-          /*3*/
-          // #docregion Icon
+          const FavoriteWidget(),
         ],
       ),
     );
